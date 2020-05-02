@@ -1,18 +1,18 @@
 00.34.5-01.08;How did you start playing Ultimate?
-4.00-4.18
-4.23.4-4.35.2
-4.51-5.08.2
+4.00-4.18;What keeps you playing Ultimate?
+4.23.4-4.35.2;What keeps you playing Ultimate?
+4.51-5.08.2;What keeps you playing Ultimate?
 8.30.8-8.49.5;Who inspires you to be a better Ultimate player?;Ana from Airbenders
-12.27.3-12.37.5
-16.04-16.13.85
-16.20.5-16.45
-19.34.5-19.57
-20.01-20.15
-23.05.7-23.17
-24.20-24.28
-27.48-27.55
-14.55-15.10
-21.55-22.05
-25.00-25.18
-26.30-27.10
-28.30-29.02
+12.27.3-12.37.5;What is the thing you liked in last nationals?
+16.04-16.13.85;What's your most memorable thing in all these years you have been playing with the team?
+16.20.5-16.45;What's your most memorable thing in all these years you have been playing with the team?
+19.34.5-19.57;How did you decide to sign up into the leadership group?
+20.01-20.15;How did you decide to sign up into the leadership group?
+23.05.7-23.17;What has the sport given you?
+24.20-24.28;What has the sport given you?
+27.48-27.55;First thing you want to do after the Lockdown?
+14.55-15.10; ####end it at 15.05. What do you value the most in Ultimate Frisbee?
+21.55-22.05;#### This is same as 27.48-24.28. Chuck this.
+25.00-25.18;####can we start this at 24.54?
+26.30-27.10;####I think this isnt social media material
+28.30-29.02;How are you keeping fit during the lockdown?
